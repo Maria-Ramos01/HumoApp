@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110646505771",
+    "project_id": "humoapp-62ef4",
+    "storage_bucket": "humoapp-62ef4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110646505771:android:9a89f25ba8305791e6156e",
+        "android_client_info": {
+          "package_name": "com.example.humoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf2g9j2wHopPLTELKg_cyALQc50m0m9vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
